@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KacperGlinka.com</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <section id="logo">
+            <img src="img/ponton.png" alt="Site Logo">
+            <p><span id="Kacper">KACPER</span><br><span id="Glinka">GLINKA</span></p>
+        </section>
+        <section id="navigation">
+            <ul>
+                <li style="font-weight: 500;" onclick="Home();">HOME</li>
+                <li onclick="About();">ABOUT</li>
+                <li onclick="Portfolio();">PORTFOLIO</li>
+                <li onclick="Contact();">CONTACT ME</li>
+                <li><a href="https://github.com/pontonx" target="_blank" rel="noopener noreferrer"><img src="img/GitHub-Mark-32px.png" alt="GItHub Logo"></a></li>
+            </ul>
+            <img src="img/hamburger.svg" alt="Hamburger" id="hamburger">
+        </section>
+    </header>
+    <section id="banner">
+        <div id="text">
+            <p>WELCOME TO MY SITE</p>
+            <h1>
+                I'M KACPER
+                <br>
+                <span id="front">FRONT-END</span>
+                <br>
+                <span id="developer">DEVELOPER</span>
+            </h1>
+            Also known as Ponton.
+            <button>MORE</button>
+        </div>
+    </section>
+    <section id="about">
+        <h1>ABOUT <span class="blue">ME</span></h1>
+        <div class="container">
+            <img id="face" src="img/face.jpg" alt="face">
+            <section id="abouttext">
+                <h1>Hello, I am <span class="blue">Kacper Glinka</span></h1>
+                <h2>Front-end Developer</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut accusamus, quis voluptatibus cupiditate, atque voluptates repudiandae necessitatibus dicta dignissimos ad rem sunt ex! Inventore voluptatibus in dolore quia laboriosam laudantium ex.</p>
+                <h3>WHAT I LEARNED</h3>
+                <section id="learned">
+                    <img src="img/html.png" alt="html icon">
+                    <img src="img/css.png" alt="css icon">
+                    <img src="img/javascript.jpg" alt="javascript icon">
+                    <img src="img/php.png" alt="php icon">
+                </section>
+            </section>
+        </div>
+    </section>
+    <section id="portfolio">
+        <h1>MY PORTFOLIO</h1>
+        <div class="grid">
+            <div>
+                <img src="img/weatherapp.png" alt="Weather Application">
+                <div id="title">
+                    Weather App using API
+                    <a href="http://weatherapp.kacperglinka.com" target="blank"><button>SHOW</button></a>
+                </div>
+            </div>
+            <div>
+                <img src="img/tipcalculator.png" alt="Tip Calculator">
+                <div id="title">
+                    Tip Calculator
+                    <a href="https://pontonx.github.io/tip-calculator-app-main/" target="blank"><button>SHOW</button></a>
+                </div>
+            </div>
+            <div>
+                <img src="img/sunnyside.png" alt="web">
+                <div id="title">
+                    Sunnyside Website
+                    <a href="https://pontonx.github.io/sunnyside-agency-landing-page-main/" target="blank"><button>SHOW</button></a>
+                </div>
+            </div>
+            <div>
+                <img src="img/csgosite.png" alt="Counter-strike:Global-ofensive website">
+                <div id="title">
+                    CS:GO Website
+                    <a href="http://csgosite.kacperglinka.com" target="blank"><button>SHOW</button></a>
+                </div>
+            </div>
+            <div>
+                <img src="img/portfolio.png" alt="Portfolio">
+                <div id="title">
+                    This Portfolio
+                    <a href="#"><button>SHOW</button></a>
+                </div>
+            </div>
+            <div>
+                <img src="img/githubapi.png" alt="GitHub Search User API">
+                <div id="title">
+                    GitHub Search User API
+                    <a href="https://pontonx.github.io/githubusersearchapi/" target="blank"><button>SHOW</button></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="contact">
+        <div class="holder">
+            <section id="intouch">
+                <h1>Get in Touch</h1>
+                <div class="social">
+                    <img src="img/discord.png" alt="discord logo">
+                    <a href="https://discord.com/users/669614549741338645">discord.com/users/ponton</a>
+                </div>
+                <div class="social">
+                    <img src="img/facebook.png" alt="facebook logo">
+                    <a href="https://www.facebook.com/kacper.glinka.5/">facebook.com/kacper.glinka.5/</a>
+                </div>
+                <div class="social">
+                    <img src="img/instagram.png" alt="instagram logo">
+                    <a href="https://www.instagram.com/k.glina/">instagram.com/k.glina/</a>
+                </div>
+            </section>
+            <section id="form">
+                <h1>Contact me</h1>
+                <form class="contact-form" action="contactform.php" method="POST">
+                <input type="text" name="name" placeholder="Full name">
+                <input type="text" name="mail" placeholder="Your e-mail">
+                <input type="text" name="subject" placeholder="Subject">
+                <textarea name="message" placeholder="Your message"></textarea>
+                <button type="submit" name="submit">SEND</button>
+                </form>
+            </section>
+        </div>
+    </section>
+    <footer>Made By <span>KACPER GLINKA</span></footer>
+    <section class="dropdownlist">
+        <ul>
+            <li style="font-weight: 500;" onclick="Home();">HOME</li>
+            <li onclick="About();">ABOUT</li>
+            <li onclick="Portfolio();">PORTFOLIO</li>
+            <li onclick="Contact();">CONTACT ME</li>
+            <li><a href="https://github.com/pontonx" target="_blank" rel="noopener noreferrer"><img src="img/GitHub-Mark-32px.png" alt="GItHub Logo"></a></li>
+        </ul>
+    </section>
+    <script src="portfolio.js"></script>
+</body>
+</html>

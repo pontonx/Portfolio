@@ -537,6 +537,7 @@ a {
     border-radius: 25px;
     display: flex;
     justify-content: center;
+    place-self: center;
     flex-direction: column;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -545,6 +546,8 @@ a {
 #squarescontact section i {
     font-size: 3em;
     margin-bottom: 10px;
+    display: grid;
+    place-self: center;
 }
 
 #squarescontact section a {

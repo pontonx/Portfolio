@@ -171,13 +171,4 @@ export const projects = [
     images: [{ id: 'weather-app', alt: 'Weather App with a city search field, temperature and cloud conditions over a forest background' }],
     links: [{ label: 'Open live app', url: 'https://pontonx.github.io/react-weather-app/' }, { label: 'Source code on GitHub', url: 'https://github.com/pontonx/react-weather-app' }],
   },
-  {
-    slug: 'csgo-tutorial', title: 'CS:GO Tutorial', category: 'web', label: 'School project', draft: true,
-    technologies: ['HTML', 'CSS'],
-    description: 'A school project that organizes Counter-Strike: Global Offensive tutorials into a single website.',
-    role: 'Frontend development',
-    details: ['I built a static tutorial site in HTML and CSS. It groups information by topic and uses images and short game clips to explain in-game techniques.'],
-    images: [{ id: 'csgo-tutorial', alt: 'CS:GO Tutorial homepage with a blue and white introduction and links to guide sections' }],
-    links: [{ label: 'Open tutorial site', url: 'https://pontonx.github.io/Tutorial-CSGO-site/' }, { label: 'Source code on GitHub', url: 'https://github.com/pontonx/Tutorial-CSGO-site' }],
-  },
 ];

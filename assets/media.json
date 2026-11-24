@@ -1,0 +1,279 @@
+{
+  "mini-wall-golf": [
+    {
+      "file": "mini-wall-golf-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "mini-wall-golf-880.webp",
+      "width": 880,
+      "height": 495
+    },
+    {
+      "file": "mini-wall-golf-1440.webp",
+      "width": 1440,
+      "height": 810
+    }
+  ],
+  "mini-wall-golf-banner": [
+    {
+      "file": "mini-wall-golf-banner-480.webp",
+      "width": 480,
+      "height": 234
+    },
+    {
+      "file": "mini-wall-golf-banner-880.webp",
+      "width": 880,
+      "height": 430
+    },
+    {
+      "file": "mini-wall-golf-banner-1024.webp",
+      "width": 1024,
+      "height": 500
+    }
+  ],
+  "office-fools": [
+    {
+      "file": "office-fools-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "office-fools-880.webp",
+      "width": 880,
+      "height": 495
+    },
+    {
+      "file": "office-fools-1440.webp",
+      "width": 1440,
+      "height": 810
+    }
+  ],
+  "2d-shooter": [
+    {
+      "file": "2d-shooter-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "2d-shooter-880.webp",
+      "width": 880,
+      "height": 495
+    },
+    {
+      "file": "2d-shooter-1440.webp",
+      "width": 1440,
+      "height": 810
+    }
+  ],
+  "night-shift-pharmacy": [
+    {
+      "file": "night-shift-pharmacy-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "night-shift-pharmacy-880.webp",
+      "width": 880,
+      "height": 495
+    },
+    {
+      "file": "night-shift-pharmacy-1440.webp",
+      "width": 1440,
+      "height": 810
+    }
+  ],
+  "gd-3d": [
+    {
+      "file": "gd-3d-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "gd-3d-880.webp",
+      "width": 880,
+      "height": 495
+    },
+    {
+      "file": "gd-3d-1440.webp",
+      "width": 1440,
+      "height": 810
+    }
+  ],
+  "minecraft-horror": [
+    {
+      "file": "minecraft-horror-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "minecraft-horror-880.webp",
+      "width": 880,
+      "height": 495
+    },
+    {
+      "file": "minecraft-horror-1440.webp",
+      "width": 1440,
+      "height": 810
+    }
+  ],
+  "fake-ad-game": [
+    {
+      "file": "fake-ad-game-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "fake-ad-game-880.webp",
+      "width": 880,
+      "height": 495
+    },
+    {
+      "file": "fake-ad-game-1440.webp",
+      "width": 1440,
+      "height": 810
+    }
+  ],
+  "where-in-the-world": [
+    {
+      "file": "where-in-the-world-480.webp",
+      "width": 480,
+      "height": 248
+    },
+    {
+      "file": "where-in-the-world-880.webp",
+      "width": 880,
+      "height": 454
+    },
+    {
+      "file": "where-in-the-world-1440.webp",
+      "width": 1440,
+      "height": 743
+    }
+  ],
+  "weather-app": [
+    {
+      "file": "weather-app-480.webp",
+      "width": 480,
+      "height": 248
+    },
+    {
+      "file": "weather-app-880.webp",
+      "width": 880,
+      "height": 454
+    },
+    {
+      "file": "weather-app-1440.webp",
+      "width": 1440,
+      "height": 743
+    }
+  ],
+  "freelance-main": [
+    {
+      "file": "freelance-main-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "freelance-main-880.webp",
+      "width": 880,
+      "height": 495
+    }
+  ],
+  "freelance-mobile": [
+    {
+      "file": "freelance-mobile-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "freelance-mobile-880.webp",
+      "width": 880,
+      "height": 495
+    }
+  ],
+  "csgo-tutorial": [
+    {
+      "file": "csgo-tutorial-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "csgo-tutorial-880.webp",
+      "width": 880,
+      "height": 495
+    },
+    {
+      "file": "csgo-tutorial-1440.webp",
+      "width": 1440,
+      "height": 810
+    }
+  ],
+  "asteroid-cleanup": [
+    {
+      "file": "asteroid-cleanup-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "file": "asteroid-cleanup-880.webp",
+      "width": 880,
+      "height": 495
+    },
+    {
+      "file": "asteroid-cleanup-1440.webp",
+      "width": 1440,
+      "height": 810
+    }
+  ],
+  "fiverr-avatar-default": [
+    {
+      "file": "fiverr-avatar-default.webp",
+      "width": 96,
+      "height": 96
+    }
+  ],
+  "fiverr-avatar-a4productions": [
+    {
+      "file": "fiverr-avatar-a4productions.webp",
+      "width": 96,
+      "height": 96
+    }
+  ],
+  "fiverr-avatar-michalrosiak": [
+    {
+      "file": "fiverr-avatar-michalrosiak.webp",
+      "width": 96,
+      "height": 96
+    }
+  ],
+  "flag-denmark": [
+    {
+      "file": "flag-denmark.png",
+      "width": 64,
+      "height": 64
+    }
+  ],
+  "flag-greece": [
+    {
+      "file": "flag-greece.png",
+      "width": 64,
+      "height": 64
+    }
+  ],
+  "flag-united-states": [
+    {
+      "file": "flag-united-states.png",
+      "width": 64,
+      "height": 64
+    }
+  ],
+  "flag-poland": [
+    {
+      "file": "flag-poland.png",
+      "width": 64,
+      "height": 64
+    }
+  ]
+}
